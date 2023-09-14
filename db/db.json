@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "amit",
+      "email": "ami@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "jgfhgd",
+      "email": "lkhjgfdf",
+      "password": "ykjthgdfs",
+      "id": 3
+    },
+    {
+      "name": "khujgyf",
+      "email": "iuyf",
+      "password": "iyuty",
+      "id": 4
+    },
+    {
+      "name": "ljihugj",
+      "email": "iouiyu",
+      "password": "likuj",
+      "id": 5
+    }
+  ],
+  "resturant": [
+    {
+      "id": 3,
+      "name": "kfc",
+      "address": "noida sector 50",
+      "contact": "8485445"
+    },
+    {
+      "name": "knjbhvg",
+      "address": "khjg",
+      "contact": "hkjgg",
+      "id": 5
+    }
+  ]
+}
